@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/sausheong/gwp/Chapter_2_Go_ChitChat/chitchat/data"
+	"github.com/singlenumber/go_chedan/data"
 )
 
 // GET /login
